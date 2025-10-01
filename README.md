@@ -14,7 +14,7 @@ Deletes media in groups after a delay (default 5 minutes). Sends confirmation af
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Jodmarmik/mediaguardr"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Jodmarmik/mediaguard"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 1. Create a Heroku 
 2. Set config vars:
    - `BOT_TOKEN` (from BotFather)
